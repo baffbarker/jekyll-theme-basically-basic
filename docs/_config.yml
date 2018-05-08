@@ -9,11 +9,11 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 # Site Settings
 lang: en-US
-title: Basically Basic
-email: dugan.nash@mailinator.com
-description: "Your new default Jekyll theme"
+title: Baff!
+email: jeremy.stocks@zoho.com
+description: "My little corner of the Internet"
 baseurl: "/jekyll-theme-basically-basic"
-url: "https://mmistakes.github.io"
+url: "https://baffbarker.github.io"
 repository: "mmistakes/minimal-mistakes"
 author:
   name: Jeremy Stocks
